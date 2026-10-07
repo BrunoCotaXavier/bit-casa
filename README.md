@@ -85,7 +85,7 @@ No seu computador, em <code>%LOCALAPPDATA%\BitCasa</code>, com cópia de seguran
 <details>
 <summary><b>Como desinstalar?</b></summary>
 <br>
-Configurações &gt; Aplicativos &gt; Bit Casa &gt; Desinstalar. O desinstalador pergunta se apaga também o que foi baixado. Se você escolher apagar, as memórias guardadas neste PC vão junto.
+Configurações &gt; Aplicativos &gt; Bit Casa &gt; Desinstalar. Ou, no painel do Bit Casa, <b>Remover o Bit deste PC</b>. O desinstalador pergunta se apaga tudo o que foi baixado (modelos de IA, ferramentas, registros e atualizações) e, em separado, se apaga também as conversas e memórias. Se mantiver as memórias, o Bit lembra de tudo quando você instalar de novo.
 </details>
 
 <br>
